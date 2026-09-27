@@ -1,7 +1,7 @@
 
 # 🦷 Dental Clinic Management System
 
-![Dental Clinic Management System][(docs/thumbnail.png)](https://github.com/Vimal4hckr/Dental-management-repo/blob/main/nir's%20banner.png)
+[![Dental Clinic Management System][(docs/thumbnail.png)](https://github.com/Vimal4hckr/Dental-management-repo/blob/main/nir's%20banner.png)](https://github.com/Vimal4hckr/Dental-management-repo/blob/main/nir's%20banner.png)
 
 A modern, full-featured **Dental Clinic Management System** built with **Django** and designed to digitize and simplify the complete workflow of a dental clinic.
 
